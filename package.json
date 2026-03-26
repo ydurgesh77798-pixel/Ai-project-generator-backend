@@ -1,0 +1,16 @@
+{
+  "name": "ai-project-generator-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI project generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "cors": "^2.8.5"
+  },
+  "engines": {
+    "node": "22.2.0"
+  }
+}
